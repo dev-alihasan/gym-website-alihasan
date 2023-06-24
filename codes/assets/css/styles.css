@@ -388,7 +388,7 @@ img {
   height: 50vh;
 }
 .item {
-  flex: 2;
+  flex: 10;
   height: 100%;
   background-position: center;
   background-size: cover;
